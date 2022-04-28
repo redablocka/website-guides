@@ -2,7 +2,7 @@
 Install an ad-blocker on iOS - Blokada
 
 # Summary #
-Blokada is a free and open-source mobile application that uses DNS servers to block ads and trackers on your device to enhance your privacy. In this guide you'll learn how to install Blokada on your iOS device.
+Blokada is an open-source mobile application that uses DNS servers to block ads and trackers on your device to enhance your privacy. In this guide you'll learn how to install Blokada on your iOS device.
 
 # Body #
 Blokada is an ad-blocker acting as a VPN to block unwanted traffic based on hostnames (urls). This prevents ads and malicious data from being loaded by any application running on your device.
